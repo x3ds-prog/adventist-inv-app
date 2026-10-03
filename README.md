@@ -6,4 +6,3 @@
 - `assets/img/og/` — превью-картинки 1200×630 для WhatsApp/Telegram
 - `tools/make_previews.py` — пересоздаёт превью и фото из `images/preview/` (`pip install pillow`, запуск из корня проекта)
 
-Перед публикацией замените `https://SAYT-DOMENI/` в `index.html` на реальный адрес сайта — иначе мессенджеры не покажут превью.
